@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Princerodricks/my-first-ml-project-/blob/main/first_mlpjt_banner.png" alt="AI Banner" style="max-width: 100%;">
+  <img src="https://github.com/Princerodricks/my-first-ml-project/blob/main/first_mlpjt_banner.png" alt="AI Banner" style="max-width: 100%;">
 </p>
 
 # My First ML Project 🤖
