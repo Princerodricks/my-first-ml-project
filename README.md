@@ -1,3 +1,10 @@
+# My First ML Project 🤖
+
+Coming soon...
+
+Will implement a classification model using scikit-learn.
+
+Stay tuned!
 
 ---
 
